@@ -1,0 +1,32 @@
+{
+  "name": "retroachievements-api",
+  "version": "1.0.0",
+  "author": {
+    "email": "welington.rmonteiro@gmail.com",
+    "name": "Welington Monteiro"
+  },
+  "description": "Unofficial Web Api library for making calls using api at https://retroachievements.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WelingtonMonteiro/retroachievements-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WelingtonMonteiro/retroachievements-api.git/issues"
+  },
+  "homepage": "https://github.com/WelingtonMonteiro/retroachievements-api.git#readme",
+  "keywords": [
+    "Web Api",
+    "retroachievements",
+    "achievements",
+    "retrogame",
+    "rooms",
+    "api"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
